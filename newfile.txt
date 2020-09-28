@@ -1,3 +1,3 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-//This change was made on GitHub.
+GIT Add command is used to put the updates on the working directory to the staging area.
+GIT Commit command is used to save the staged changes to the local repository.
+GIT Push command is used to transfer commits from local repository to a remote repository.
